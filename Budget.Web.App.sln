@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Budget.Web.App", "Budget.Web.App\Budget.Web.App.csproj", "{32323EDC-3428-4DD5-BD96-CFAECD0E822D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budget.Web.App.Auth", "Budget.Web.App.Auth\Budget.Web.App.Auth.csproj", "{8F0FB962-1577-41A9-A591-AAA0F14D10F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Budget.Web.App.Auth", "Budget.Web.App.Auth\Budget.Web.App.Auth.csproj", "{8F0FB962-1577-41A9-A591-AAA0F14D10F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budget.Web.App.Database", "Budget.Web.App.Database\Budget.Web.App.Database.csproj", "{5308864E-42F4-414B-BB55-1375AA3A4FFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Budget.Web.App.Identity", "Budget.Web.App.Identity\Budget.Web.App.Identity.csproj", "{0DD1664F-0360-427B-98B4-9C81D18B5680}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{8F0FB962-1577-41A9-A591-AAA0F14D10F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8F0FB962-1577-41A9-A591-AAA0F14D10F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8F0FB962-1577-41A9-A591-AAA0F14D10F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5308864E-42F4-414B-BB55-1375AA3A4FFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5308864E-42F4-414B-BB55-1375AA3A4FFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5308864E-42F4-414B-BB55-1375AA3A4FFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5308864E-42F4-414B-BB55-1375AA3A4FFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD1664F-0360-427B-98B4-9C81D18B5680}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD1664F-0360-427B-98B4-9C81D18B5680}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD1664F-0360-427B-98B4-9C81D18B5680}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD1664F-0360-427B-98B4-9C81D18B5680}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
