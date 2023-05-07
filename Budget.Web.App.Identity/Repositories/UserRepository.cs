@@ -1,4 +1,7 @@
-﻿using Budget.Web.App.Identity.Models;
+﻿using Budget.Web.App.Database.DataAccess;
+using Budget.Web.App.Identity.Models;
+using Budget.Web.App.Identity.Queries;
+using Microsoft.Data.SqlClient;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +12,15 @@ namespace Budget.Web.App.Identity.Repositories
 {
   public class UserRepository : IUserRepository
   {
-    public Task<User> CreateUser(User user)
+    private readonly IDataAccess<User> _userDataAccess;
+    public UserRepository(IDataAccess<User> userDataAccess)
     {
-      throw new NotImplementedException();
+      _userDataAccess = userDataAccess;
+    }
+    public async Task<User> CreateUser(User user)
+    {
+      SqlCommand createCommand = new SqlCommand(UserQuery.Create());
+      return _userDataAccess.Create(createCommand);
     }
   }
 }

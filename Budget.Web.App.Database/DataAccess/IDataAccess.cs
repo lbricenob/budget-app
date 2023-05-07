@@ -1,17 +1,12 @@
-﻿using Microsoft.Data.SqlClient;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Budget.Web.App.Database.DataModels;
+using Microsoft.Data.SqlClient;
 
-namespace Budget.Web.App.Database.DataAccess
+namespace Budget.Web.App.Database.DataAccess;
+public interface IDataAccess<T> where T : DataEntity
 {
-  public interface IDataAccess
-  {
-    T Create<T>(SqlCommand command);
-    T Get<T>(SqlCommand command);
-    List<T> GetAll<T>(SqlCommand command);
-    T Update<T>(SqlCommand command);
-  }
+  T Create(SqlCommand command);
+  T Get(SqlCommand command);
+  List<T> GetAll(SqlCommand command);
+  T Update(SqlCommand command);
+  T ConvertReader(SqlDataReader reader);
 }

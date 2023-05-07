@@ -25,6 +25,7 @@
 
 	<ItemGroup>
 	  <ProjectReference Include="..\Budget.Web.App.Auth\Budget.Web.App.Auth.csproj" />
+	  <ProjectReference Include="..\Budget.Web.App.Identity\Budget.Web.App.Identity.csproj" />
 	</ItemGroup>
 
 	<Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
