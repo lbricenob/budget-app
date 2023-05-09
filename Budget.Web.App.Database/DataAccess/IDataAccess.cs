@@ -4,9 +4,9 @@ using Microsoft.Data.SqlClient;
 namespace Budget.Web.App.Database.DataAccess;
 public interface IDataAccess<T> where T : DataEntity
 {
-  T Create(SqlCommand command);
-  T Get(SqlCommand command);
-  List<T> GetAll(SqlCommand command);
-  T Update(SqlCommand command);
+  Task<T> Create(SqlCommand command);
+  Task<T> Get(SqlCommand command);
+  Task<List<T>> GetAll(SqlCommand command);
+  Task<T> Update(SqlCommand command);
   T ConvertReader(SqlDataReader reader);
 }

@@ -10,7 +10,7 @@ public class DataAccess<T> : IDataAccess<T> where T : DataEntity, new()
     _connectionString = connectionString;
   }
 
-  public T Create(SqlCommand command)
+  public async Task<T> Create(SqlCommand command)
   {
     using (SqlConnection connection = new SqlConnection(_connectionString))
     {
@@ -18,7 +18,7 @@ public class DataAccess<T> : IDataAccess<T> where T : DataEntity, new()
       {
         connection.Open();
         command.Connection = connection;
-        using (SqlDataReader reader = command.ExecuteReader())
+        using (SqlDataReader reader = await command.ExecuteReaderAsync())
         {
           while (reader.Read())
           {
@@ -34,17 +34,17 @@ public class DataAccess<T> : IDataAccess<T> where T : DataEntity, new()
     }
   }
 
-  public T Get(SqlCommand command)
+  public Task<T> Get(SqlCommand command)
   {
     throw new NotImplementedException();
   }
 
-  public List<T> GetAll(SqlCommand command)
+  public Task<List<T>> GetAll(SqlCommand command)
   {
     throw new NotImplementedException();
   }
 
-  public T Update(SqlCommand command)
+  public Task<T> Update(SqlCommand command)
   {
     throw new NotImplementedException();
   }

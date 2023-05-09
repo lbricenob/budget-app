@@ -23,7 +23,7 @@ namespace Budget.Web.App.Controllers
     }
 
     [HttpGet("createUser")]
-    public IActionResult TestCreateUser()
+    public IActionResult TestCreateUser(string email, string password)
     {
       return Ok(_userRepository.CreateUser(new Identity.Models.User()));
     }

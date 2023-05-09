@@ -2,11 +2,6 @@
 using Budget.Web.App.Identity.Models;
 using Budget.Web.App.Identity.Queries;
 using Microsoft.Data.SqlClient;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Budget.Web.App.Identity.Repositories
 {
@@ -20,7 +15,10 @@ namespace Budget.Web.App.Identity.Repositories
     public async Task<User> CreateUser(User user)
     {
       SqlCommand createCommand = new SqlCommand(UserQuery.Create());
-      return _userDataAccess.Create(createCommand);
+      createCommand.Parameters.AddWithValue("id", Guid.NewGuid());
+      createCommand.Parameters.AddWithValue("email", user.Email);
+      createCommand.Parameters.AddWithValue("password", user.Password);
+      return await _userDataAccess.Create(createCommand);
     }
   }
 }
