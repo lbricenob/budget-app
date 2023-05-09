@@ -27,7 +27,15 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <_ContentIncludedByDefault Remove="files\Currencies.json" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <ProjectReference Include="..\Budget.Web.App.Auth\Budget.Web.App.Auth.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Folder Include="Files\" />
 	</ItemGroup>
 
 	<Target Name="DebugEnsureNodeEnv" BeforeTargets="Build" Condition=" '$(Configuration)' == 'Debug' And !Exists('$(SpaRoot)node_modules') ">
