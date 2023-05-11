@@ -1,0 +1,671 @@
+[
+    {
+      "codeCurrency": "AED",
+      "desCurrency": "Dirham de los Emiratos arabes Unidos"
+    },
+    {
+      "codeCurrency": "AFN",
+      "desCurrency": "Afgani afgano"
+    },
+    {
+      "codeCurrency": "ALL",
+      "desCurrency": "Lek albanes"
+    },
+    {
+      "codeCurrency": "AMD",
+      "desCurrency": "Dram armenio"
+    },
+    {
+      "codeCurrency": "ANG",
+      "desCurrency": "Florin antillano neerlandes"
+    },
+    {
+      "codeCurrency": "AOA",
+      "desCurrency": "Kwanza angoleno"
+    },
+    {
+      "codeCurrency": "ARS",
+      "desCurrency": "Peso argentino"
+    },
+    {
+      "codeCurrency": "AUD",
+      "desCurrency": "Dolar australiano"
+    },
+    {
+      "codeCurrency": "AWG",
+      "desCurrency": "Florin arubeno"
+    },
+    {
+      "codeCurrency": "AZM",
+      "desCurrency": "Manat azerbaiyano"
+    },
+    {
+      "codeCurrency": "BAM",
+      "desCurrency": "Marco convertible de Bosnia-Herzegovina"
+    },
+    {
+      "codeCurrency": "BBD",
+      "desCurrency": "Dolar de Barbados"
+    },
+    {
+      "codeCurrency": "BDT",
+      "desCurrency": "Taka de Bangladesh"
+    },
+    {
+      "codeCurrency": "BGN",
+      "desCurrency": "Lev bulgaro"
+    },
+    {
+      "codeCurrency": "BHD",
+      "desCurrency": "Dinar bahreini"
+    },
+    {
+      "codeCurrency": "BIF",
+      "desCurrency": "Franco burundes"
+    },
+    {
+      "codeCurrency": "BMD",
+      "desCurrency": "Dolar de Bermuda"
+    },
+    {
+      "codeCurrency": "BND",
+      "desCurrency": "Dolar de Brunei"
+    },
+    {
+      "codeCurrency": "BOB",
+      "desCurrency": "Boliviano de Bolivia"
+    },
+    {
+      "codeCurrency": "BRL",
+      "desCurrency": "Real brasileno"
+    },
+    {
+      "codeCurrency": "BSD",
+      "desCurrency": "Dolar bahameno"
+    },
+    {
+      "codeCurrency": "BTN",
+      "desCurrency": "Ngultrum de Butan"
+    },
+    {
+      "codeCurrency": "BWP",
+      "desCurrency": "Pula de Botsuana"
+    },
+    {
+      "codeCurrency": "BYR",
+      "desCurrency": "Rublo bielorruso"
+    },
+    {
+      "codeCurrency": "BZD",
+      "desCurrency": "Dolar de Belice"
+    },
+    {
+      "codeCurrency": "CAD",
+      "desCurrency": "Dolar canadiense"
+    },
+    {
+      "codeCurrency": "CDF",
+      "desCurrency": "Franco congoleno"
+    },
+    {
+      "codeCurrency": "CHF",
+      "desCurrency": "Franco suizo"
+    },
+    {
+      "codeCurrency": "CLP",
+      "desCurrency": "Peso chileno"
+    },
+    {
+      "codeCurrency": "CNY",
+      "desCurrency": "Yuan Renminbi de China"
+    },
+    {
+      "codeCurrency": "COP",
+      "desCurrency": "Peso colombiano"
+    },
+    {
+      "codeCurrency": "CRC",
+      "desCurrency": "Colon costarricense"
+    },
+    {
+      "codeCurrency": "RSD",
+      "desCurrency": "Dinar serbio "
+    },
+    {
+      "codeCurrency": "CUP",
+      "desCurrency": "Peso cubano"
+    },
+    {
+      "codeCurrency": "CUC",
+      "desCurrency": "Peso cubano convertible"
+    },
+    {
+      "codeCurrency": "CVE",
+      "desCurrency": "Escudo caboverdiano"
+    },
+    {
+      "codeCurrency": "CYP",
+      "desCurrency": "Libra chipriota"
+    },
+    {
+      "codeCurrency": "CZK",
+      "desCurrency": "Koruna checa"
+    },
+    {
+      "codeCurrency": "DJF",
+      "desCurrency": "Franco yibutiano"
+    },
+    {
+      "codeCurrency": "DKK",
+      "desCurrency": "Corona danesa"
+    },
+    {
+      "codeCurrency": "DOP",
+      "desCurrency": "Peso dominicano"
+    },
+    {
+      "codeCurrency": "DZD",
+      "desCurrency": "Dinar algerino"
+    },
+    {
+      "codeCurrency": "EEK",
+      "desCurrency": "Corona estonia"
+    },
+    {
+      "codeCurrency": "EGP",
+      "desCurrency": "Libra egipcia"
+    },
+    {
+      "codeCurrency": "ERN",
+      "desCurrency": "Nakfa eritreo"
+    },
+    {
+      "codeCurrency": "ETB",
+      "desCurrency": "Birr etiope"
+    },
+    {
+      "codeCurrency": "EUR",
+      "desCurrency": "Euro"
+    },
+    {
+      "codeCurrency": "FJD",
+      "desCurrency": "Dolar fijiano"
+    },
+    {
+      "codeCurrency": "FKP",
+      "desCurrency": "Libra malvinense"
+    },
+    {
+      "codeCurrency": "GBP",
+      "desCurrency": "Libra esterlina (libra de Gran Bretana)"
+    },
+    {
+      "codeCurrency": "GEL",
+      "desCurrency": "Lari georgiano"
+    },
+    {
+      "codeCurrency": "GHS",
+      "desCurrency": "Cedi ghanes"
+    },
+    {
+      "codeCurrency": "GIP",
+      "desCurrency": "Libra de Gibraltar"
+    },
+    {
+      "codeCurrency": "GMD",
+      "desCurrency": "Dalasi gambiano"
+    },
+    {
+      "codeCurrency": "GNF",
+      "desCurrency": "Franco guineano"
+    },
+    {
+      "codeCurrency": "GTQ",
+      "desCurrency": "Quetzal guatemalteco"
+    },
+    {
+      "codeCurrency": "GYD",
+      "desCurrency": "Dolar guyanes"
+    },
+    {
+      "codeCurrency": "HKD",
+      "desCurrency": "Dolar de Hong Kong"
+    },
+    {
+      "codeCurrency": "HNL",
+      "desCurrency": "Lempira hondureno"
+    },
+    {
+      "codeCurrency": "HRK",
+      "desCurrency": "Kuna croata"
+    },
+    {
+      "codeCurrency": "HTG",
+      "desCurrency": "Gourde haitiano"
+    },
+    {
+      "codeCurrency": "HUF",
+      "desCurrency": "Forint hungaro"
+    },
+    {
+      "codeCurrency": "IDR",
+      "desCurrency": "Rupiah indonesia"
+    },
+    {
+      "codeCurrency": "ILS",
+      "desCurrency": "Nuevo shequel israeli"
+    },
+    {
+      "codeCurrency": "INR",
+      "desCurrency": "Rupia india"
+    },
+    {
+      "codeCurrency": "IQD",
+      "desCurrency": "Dinar iraqui"
+    },
+    {
+      "codeCurrency": "IRR",
+      "desCurrency": "Rial irani"
+    },
+    {
+      "codeCurrency": "ISK",
+      "desCurrency": "Krona islandesa"
+    },
+    {
+      "codeCurrency": "JMD",
+      "desCurrency": "Dolar jamaicano"
+    },
+    {
+      "codeCurrency": "JOD",
+      "desCurrency": "Dinar jordano"
+    },
+    {
+      "codeCurrency": "JPY",
+      "desCurrency": "Yen japones"
+    },
+    {
+      "codeCurrency": "KES",
+      "desCurrency": "Chelin keniata"
+    },
+    {
+      "codeCurrency": "KGS",
+      "desCurrency": "Som kirguis (de Kirguistan)"
+    },
+    {
+      "codeCurrency": "KHR",
+      "desCurrency": "Riel camboyano"
+    },
+    {
+      "codeCurrency": "KMF",
+      "desCurrency": "Franco comoriano (de Comoras)"
+    },
+    {
+      "codeCurrency": "KPW",
+      "desCurrency": "Won norcoreano"
+    },
+    {
+      "codeCurrency": "KRW",
+      "desCurrency": "Won surcoreano"
+    },
+    {
+      "codeCurrency": "KWD",
+      "desCurrency": "Dinar kuwaiti"
+    },
+    {
+      "codeCurrency": "KYD",
+      "desCurrency": "Dolar caimano (de Islas Caiman)"
+    },
+    {
+      "codeCurrency": "KZT",
+      "desCurrency": "Tenge kazajo"
+    },
+    {
+      "codeCurrency": "LAK",
+      "desCurrency": "Kip lao"
+    },
+    {
+      "codeCurrency": "LBP",
+      "desCurrency": "Libra libanesa"
+    },
+    {
+      "codeCurrency": "LKR",
+      "desCurrency": "Rupia de Sri Lanka"
+    },
+    {
+      "codeCurrency": "LRD",
+      "desCurrency": "Dolar liberiano"
+    },
+    {
+      "codeCurrency": "LSL",
+      "desCurrency": "Loti lesotense"
+    },
+    {
+      "codeCurrency": "LTL",
+      "desCurrency": "Litas lituano"
+    },
+    {
+      "codeCurrency": "LVL",
+      "desCurrency": "Lat leton"
+    },
+    {
+      "codeCurrency": "LYD",
+      "desCurrency": "Dinar libio"
+    },
+    {
+      "codeCurrency": "MAD",
+      "desCurrency": "Dirham marroqui"
+    },
+    {
+      "codeCurrency": "MDL",
+      "desCurrency": "Leu moldavo"
+    },
+    {
+      "codeCurrency": "MGA",
+      "desCurrency": "Ariary malgache"
+    },
+    {
+      "codeCurrency": "MKD",
+      "desCurrency": "Denar macedonio"
+    },
+    {
+      "codeCurrency": "MMK",
+      "desCurrency": "Kyat birmano"
+    },
+    {
+      "codeCurrency": "MNT",
+      "desCurrency": "Tughrik mongol"
+    },
+    {
+      "codeCurrency": "MOP",
+      "desCurrency": "Pataca de Macao"
+    },
+    {
+      "codeCurrency": "MRO",
+      "desCurrency": "Ouguiya mauritana"
+    },
+    {
+      "codeCurrency": "MTL",
+      "desCurrency": "Lira maltesa"
+    },
+    {
+      "codeCurrency": "MUR",
+      "desCurrency": "Rupia mauricia"
+    },
+    {
+      "codeCurrency": "MVR",
+      "desCurrency": "Rufiyaa maldiva"
+    },
+    {
+      "codeCurrency": "MWK",
+      "desCurrency": "Kwacha malauiano"
+    },
+    {
+      "codeCurrency": "MXN",
+      "desCurrency": "Peso mexicano"
+    },
+    {
+      "codeCurrency": "MYR",
+      "desCurrency": "Ringgit malayo"
+    },
+    {
+      "codeCurrency": "MZN",
+      "desCurrency": "Metical mozambiqueno"
+    },
+    {
+      "codeCurrency": "NAD",
+      "desCurrency": "Dolar namibio"
+    },
+    {
+      "codeCurrency": "NGN",
+      "desCurrency": "Naira nigeriana"
+    },
+    {
+      "codeCurrency": "NIO",
+      "desCurrency": "Cordoba nicarag�ense"
+    },
+    {
+      "codeCurrency": "NOK",
+      "desCurrency": "Corona noruega"
+    },
+    {
+      "codeCurrency": "NPR",
+      "desCurrency": "Rupia nepalesa"
+    },
+    {
+      "codeCurrency": "NZD",
+      "desCurrency": "Dolar neozelandes"
+    },
+    {
+      "codeCurrency": "OMR",
+      "desCurrency": "Rial omani"
+    },
+    {
+      "codeCurrency": "PAB",
+      "desCurrency": "Balboa panamena"
+    },
+    {
+      "codeCurrency": "PEN",
+      "desCurrency": "Nuevo sol peruano"
+    },
+    {
+      "codeCurrency": "PGK",
+      "desCurrency": "Kina de Papua Nueva Guinea"
+    },
+    {
+      "codeCurrency": "PHP",
+      "desCurrency": "Peso filipino"
+    },
+    {
+      "codeCurrency": "PKR",
+      "desCurrency": "Rupia pakistani"
+    },
+    {
+      "codeCurrency": "PLN",
+      "desCurrency": "zloty polaco"
+    },
+    {
+      "codeCurrency": "PYG",
+      "desCurrency": "Guarani paraguayo"
+    },
+    {
+      "codeCurrency": "QAR",
+      "desCurrency": "Rial qatari"
+    },
+    {
+      "codeCurrency": "RON",
+      "desCurrency": "Leu rumano"
+    },
+    {
+      "codeCurrency": "RUB",
+      "desCurrency": "Rublo ruso"
+    },
+    {
+      "codeCurrency": "RWF",
+      "desCurrency": "Franco ruandes"
+    },
+    {
+      "codeCurrency": "SAR",
+      "desCurrency": "Riyal saudi"
+    },
+    {
+      "codeCurrency": "SBD",
+      "desCurrency": "Dolar de las Islas Salomon"
+    },
+    {
+      "codeCurrency": "SCR",
+      "desCurrency": "Rupia de Seychelles"
+    },
+    {
+      "codeCurrency": "SDG",
+      "desCurrency": "Dinar sudanes"
+    },
+    {
+      "codeCurrency": "SEK",
+      "desCurrency": "Corona sueca"
+    },
+    {
+      "codeCurrency": "SGD",
+      "desCurrency": "Dolar de Singapur"
+    },
+    {
+      "codeCurrency": "SHP",
+      "desCurrency": "Libra de Santa Helena"
+    },
+    {
+      "codeCurrency": "SKK",
+      "desCurrency": "Corona eslovaca"
+    },
+    {
+      "codeCurrency": "SLL",
+      "desCurrency": "Leone de Sierra Leona"
+    },
+    {
+      "codeCurrency": "SOS",
+      "desCurrency": "Chelin somali"
+    },
+    {
+      "codeCurrency": "SRD",
+      "desCurrency": "Dolar surinames"
+    },
+    {
+      "codeCurrency": "STD",
+      "desCurrency": "Dobra de Santo Tome y Principe"
+    },
+    {
+      "codeCurrency": "SYP",
+      "desCurrency": "Libra siria"
+    },
+    {
+      "codeCurrency": "SZL",
+      "desCurrency": "Lilangeni suazi"
+    },
+    {
+      "codeCurrency": "THB",
+      "desCurrency": "Baht tailandes"
+    },
+    {
+      "codeCurrency": "TJS",
+      "desCurrency": "Somoni tayik (de Tayikistan)"
+    },
+    {
+      "codeCurrency": "TMT",
+      "desCurrency": "Manat turcomano turcomano"
+    },
+    {
+      "codeCurrency": "TND",
+      "desCurrency": "Dinar tunecino"
+    },
+    {
+      "codeCurrency": "TOP",
+      "desCurrency": "Pa'anga tongano"
+    },
+    {
+      "codeCurrency": "TRY",
+      "desCurrency": "Lira turca"
+    },
+    {
+      "codeCurrency": "TTD",
+      "desCurrency": "Dolar de Trinidad y Tobago"
+    },
+    {
+      "codeCurrency": "TWD",
+      "desCurrency": "Dolar taiwanes"
+    },
+    {
+      "codeCurrency": "TZS",
+      "desCurrency": "Chelin tanzano"
+    },
+    {
+      "codeCurrency": "UAH",
+      "desCurrency": "Grivna ucraniana"
+    },
+    {
+      "codeCurrency": "UGX",
+      "desCurrency": "Chelin ugandes"
+    },
+    {
+      "codeCurrency": "USD",
+      "desCurrency": "Dolar estadounidense"
+    },
+    {
+      "codeCurrency": "UYU",
+      "desCurrency": "Peso uruguayo"
+    },
+    {
+      "codeCurrency": "UZS",
+      "desCurrency": "Som uzbeko"
+    },
+    {
+      "codeCurrency": "VEF",
+      "desCurrency": "Bolivar fuerte venezolano"
+    },
+    {
+      "codeCurrency": "VND",
+      "desCurrency": "Dong vietnamita"
+    },
+    {
+      "codeCurrency": "VUV",
+      "desCurrency": "Vatu vanuatense"
+    },
+    {
+      "codeCurrency": "WST",
+      "desCurrency": "Tala samoana"
+    },
+    {
+      "codeCurrency": "XAF",
+      "desCurrency": "Franco CFA de africa Central"
+    },
+    {
+      "codeCurrency": "XBA",
+      "desCurrency": "European Composite Unit (EURCO) (unidad del mercado de bonos)"
+    },
+    {
+      "codeCurrency": "XBB",
+      "desCurrency": "European Monetary Unit (E.M.U.-6) (unidad del mercado de bonos)"
+    },
+    {
+      "codeCurrency": "XBC",
+      "desCurrency": "European Unit of Account 9 (E.U.A.-9) (unidad del mercado de bonos)"
+    },
+    {
+      "codeCurrency": "XBD",
+      "desCurrency": "European Unit of Account 17 (E.U.A.-17) (unidad del mercado de bonos)"
+    },
+    {
+      "codeCurrency": "XCD",
+      "desCurrency": "Dolar del Caribe Oriental"
+    },
+    {
+      "codeCurrency": "XDR",
+      "desCurrency": "Derecho Especial de Giro (DEG  -  FMI)"
+    },
+    {
+      "codeCurrency": "XFO",
+      "desCurrency": "Franco de oro (Special settlement currency)"
+    },
+    {
+      "codeCurrency": "XFU",
+      "desCurrency": "Franco UIC (Special settlement currency)"
+    },
+    {
+      "codeCurrency": "XOF",
+      "desCurrency": "Franco CFA de africa Occidental"
+    },
+    {
+      "codeCurrency": "YER",
+      "desCurrency": "Rial yemeni (de Yemen)"
+    },
+    {
+      "codeCurrency": "ZAR",
+      "desCurrency": "Rand sudafricano"
+    },
+    {
+      "codeCurrency": "ZMK",
+      "desCurrency": "Kwacha zambiano"
+    },
+    {
+      "codeCurrency": "ZWL",
+      "desCurrency": "Dolar zimbabuense"
+    }
+
+  ]
