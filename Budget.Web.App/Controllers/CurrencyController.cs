@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Authorization;
+using System.Text.Json;
+using Budget.Web.App.Entity;
 
 namespace Budget.Web.App.Controllers
 {
@@ -8,11 +10,15 @@ namespace Budget.Web.App.Controllers
     [Authorize(AuthenticationSchemes = "BudgetAuthScheme")]
     public class CurrencyController : ControllerBase
     {
+
         [HttpGet]
         public IActionResult GetCurrency()
         {
-            var json = System.IO.File.ReadAllText(@"Files/Currencies.json");
-            return Content(json, "application/json");
+            string json = System.IO.File.ReadAllText(@"Files/Currencies.json");
+
+            List<Currency> ListofCurrency =JsonSerializer.Deserialize<List<Currency>>(json);
+            return Ok(ListofCurrency);
+            //return Content(json, "application/json");
         }
     }
 }

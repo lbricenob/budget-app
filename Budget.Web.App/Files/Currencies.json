@@ -1,5 +1,4 @@
-{
-  "arrayCurrencies": [
+[
     {
       "codeCurrency": "AED",
       "desCurrency": "Dirham de los Emiratos arabes Unidos"
@@ -422,7 +421,7 @@
     },
     {
       "codeCurrency": "NIO",
-      "desCurrency": "Cordoba nicaragüense"
+      "desCurrency": "Cordoba nicaragï¿½ense"
     },
     {
       "codeCurrency": "NOK",
@@ -670,4 +669,3 @@
     }
 
   ]
-}
